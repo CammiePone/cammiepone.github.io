@@ -1,0 +1,24 @@
+{
+	"supporters": [
+		{
+			"username": "doctor4t",
+			"uuid": "1b44461a-f605-4b29-a7a9-04e649d1981c",
+			"magic_color": "#ff005a"
+		},
+		{
+			"username": "LotusKitty",
+			"uuid": "6147825f-5493-4154-87c5-5c03c6b0a7c2",
+			"magic_color": "#f2dd50"
+		},
+		{
+			"username": "MoriyaShiine",
+			"uuid": "63a8c63b-9179-4427-849a-55212e6008bf",
+			"magic_color": "#7cff7c"
+		},
+		{
+			"username": "UpcraftLP",
+			"uuid": "d5034857-9e8a-44cb-a6da-931caff5b838",
+			"magic_color": "#bd78ff"
+		}
+	]
+}
